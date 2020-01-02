@@ -1,7 +1,9 @@
 "use strict";
 
 browser.runtime.onMessage.addListener(request => {
+    console.log("link action received")
     addVideoLink();
+    return Promise.resolve({response: "success"});
 });
 
 function cleanUpDuplicate(videoID, element) {

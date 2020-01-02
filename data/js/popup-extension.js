@@ -3,10 +3,9 @@
 function notifyExtension(event) {
 
     var targetElement = event.target || event.srcElement;
-    
+ 
     if (targetElement.id === "add_video_button") {
-        console.log("action send")
-           addVideoLinks();
+        addVideoLinks();
     } else if (targetElement.id === "support_us") {
         browser.runtime.sendMessage({ type: "donation" });
     } else if (targetElement.id === "report_issue") {
@@ -16,10 +15,10 @@ function notifyExtension(event) {
 
 function addVideoLinks() {
     browser.runtime.sendMessage({
-        "action": 'add-video'
+        "action": "videolink"
     });
 }
-
+window.addEventListener('click', notifyExtension);
 window.addEventListener('DOMContentLoaded', addVideoLinks);
 
 

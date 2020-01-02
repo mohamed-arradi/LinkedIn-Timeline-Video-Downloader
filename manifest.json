@@ -23,17 +23,12 @@
     },
     "content_scripts": [
         {
-            "matches": [
-                "<all_urls>"
-            ],
+            "matches": ["*://*.linkedin.com/*"],
             "js": [
                 "./data/js/content-script.js",
-                "./data/js/injectionHelper.js",
-                "./data/js/tingle.js"
+                "./data/js/injectionHelper.js"
             ],
-            "css": [
-                "./data/css/tingle.css"
-            ]
+            "css": []
         }
     ],
     "applications": {
@@ -42,6 +37,8 @@
         }
     },
     "permissions": [
-        "storage"
+        "storage",
+        "tabs",
+        "activeTab"
     ]
 }
