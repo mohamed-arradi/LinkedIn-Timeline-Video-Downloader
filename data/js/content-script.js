@@ -2,6 +2,8 @@
 
 browser.runtime.onMessage.addListener(request => {
     console.log("link action received")
+    // select elements
+    var elements = Array.from(document.getElementsByTagName('svg'));
     addVideoLink();
     return Promise.resolve({response: "success"});
 });
@@ -72,5 +74,3 @@ function addVideoLink() {
         });
     }
 }
-
-addVideoLink();
