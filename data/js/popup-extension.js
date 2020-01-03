@@ -18,7 +18,8 @@ function addVideoLinks() {
         "action": "videolink"
     });
 }
-window.addEventListener('click', notifyExtension);
+
+window.addEventListener('click', addVideoLinks);
 window.addEventListener('DOMContentLoaded', addVideoLinks);
 
 

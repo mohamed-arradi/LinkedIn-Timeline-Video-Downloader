@@ -6,5 +6,13 @@
     "extensionDescription": {
         "message": "LinkedinVideoDownloader vous permet de télécharger les vidéos des post Linkedin facilement",
         "description": "LinkedinVideoDownloader vous permet de télécharger les vidéos des post Linkedin facilement"
+    },
+    "contextMenuItemTranslation": {
+        "message": "Ajouter le lien de téléchargement vidéo",
+        "description": ""
+    },
+    "contextMenuItemTextTranslation": {
+        "message": "Ajouter le lien de téléchargement vidéo",
+        "description": ""
     }
 }

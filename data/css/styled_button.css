@@ -8,7 +8,7 @@
     border-radius: 5px;
     position: absolute;
     width: 90%;
-    background-color: rgb(223, 86, 1);
+    background-color: rgb(23, 22, 26);
 }
 
 .classic {
@@ -29,7 +29,7 @@
     background-color: rgb(1, 116, 223);
     color: #fff;
     position: relative;
-    border-radius: 5px;
+    border-radius: 1px;
 }
 
 .support:hover {
@@ -39,7 +39,7 @@
 }
 
 .styled:hover {
-    background-color: rgb(223, 179, 1);
+    background-color: rgb(1, 134, 223);
 }
 
 .styled:active {
@@ -48,4 +48,5 @@
 
 .labelclassic {
     color: #fff;
+    font-size: 0.9rem;
 }
