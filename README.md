@@ -19,20 +19,15 @@ With this add-on you can download the embedded link with one 1 click.
 
 Every time that you are in front of a post which contain an embedded video, you just need to do a right click and click on the menu item "Add video links" . Once done you will see a new option item to download the embedded video.
 
-**See the video demo for more details**: https://youtu.be/zMlUsi1CT_M
+**See the video demo below for more details**
 
 ## HOW TO INSTALL IT ?
 
-**Direct Download Link**
+**Direct Install Link**
 
-Just add the add-on here: 
-
-**Mozilla**:
-
-[![Video LinkedIn Downloader](/screenshots/downloadbutton.png)](https://addons.mozilla.org/en-US/firefox/addon/linkedin-video-downloader/?src=search)
+**Mozilla**: [![Video LinkedIn Downloader](/screenshots/downloadbutton.png)](https://addons.mozilla.org/en-US/firefox/addon/linkedin-video-downloader/?src=search)
 
 ### Demo
-
 [![Demo-LinkedinVideoDownloader](/screenshots/Screenshot-YoutubeDemo.png)](https://youtu.be/zMlUsi1CT_M)
 
 ### REMAINING TO DO
@@ -41,7 +36,6 @@ Just add the add-on here:
 - Support more languages
 
 ### CONTRIBUTING
-
 If you want to contribute to improve it, it will be with pleasure !
 
 ### Image Credits
