@@ -24,7 +24,7 @@ Every time that you are in front of a post which contain an embedded video, you 
 
 **Direct Install Link**
 
-**Mozilla**: [![Video LinkedIn Downloader](/screenshots/downloadbutton.png)](https://addons.mozilla.org/en-US/firefox/addon/linkedin-video-downloader/?src=search)
+**Mozilla**: [![Video LinkedIn Downloader](/screenshots/AddToFirefox.png)](https://addons.mozilla.org/en-US/firefox/addon/linkedin-video-downloader/?src=search)
 
 ### Demo
 [![Demo-LinkedinVideoDownloader](/screenshots/Screenshot-YoutubeDemo.png)](https://youtu.be/zMlUsi1CT_M)
