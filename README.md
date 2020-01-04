@@ -1,9 +1,8 @@
-# LinkedInVideoDownloader
+# LinkedIn Video Downloader for Firefox (Google Chrome soon) ! [![Javacript](https://img.shields.io/badge/Javascript-yellow.svg?style=flat)]()
 
 **Download all embedded videos contained in your Linkedin timeline**
 
 ![LinkedIn Video Downloader](images/LinkedInAddon96.png)
-# LinkedIn Video Downloader for Firefox (Google Chrome soon) ! [![Javacript](https://img.shields.io/badge/Javascript-yellow.svg?style=flat)]()
 
 LinkedinVideoDownloader allow you to download videos from your LinkedIn timeline. 
 
