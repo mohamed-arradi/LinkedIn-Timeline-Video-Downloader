@@ -2,7 +2,7 @@
 
 **Download all embedded videos contained in your Linkedin timeline**
 
-![LinkedIn Video Downloader](/data/images/LinkedInAddon96.png)
+![LinkedIn Video Downloader](images/LinkedInAddon96.png)
 # LinkedIn Video Downloader for Firefox (Google Chrome soon) ! [![Javacript](https://img.shields.io/badge/Javascript-yellow.svg?style=flat)]()
 
 LinkedinVideoDownloader allow you to download videos from your LinkedIn timeline. 
@@ -13,7 +13,7 @@ With this add-on you can download the embedded link with one 1 click.
 
 **Beware** it works only with **embedded** videos. (not external player such as Youtube, Vimeo, dailymotion, etc).
 
-![Image of LinkedIn Video Downloader](/data/screenshots/LinkedinContextMenuItem.png)
+![Image of LinkedIn Video Downloader](/screenshots/LinkedinContextMenuItem.png)
 
 ## How use it ?
 
@@ -29,11 +29,11 @@ Just add the add-on here:
 
 **Mozilla**:
 
-[![Video LinkedIn Downloader](/data/screenshots/downloadbutton.png)](https://addons.mozilla.org/en-US/firefox/addon/linkedin-video-downloader/?src=search)
+[![Video LinkedIn Downloader](/screenshots/downloadbutton.png)](https://addons.mozilla.org/en-US/firefox/addon/linkedin-video-downloader/?src=search)
 
 ### Demo
 
-[![Demo-LinkedinVideoDownloader](/data/screenshots/Screenshot-YoutubeDemo.png)](https://addons.mozilla.org/en-US/firefox/addon/linkedin-video-downloader/?src=search)
+[![Demo-LinkedinVideoDownloader](/screenshots/Screenshot-YoutubeDemo.png)](https://addons.mozilla.org/en-US/firefox/addon/linkedin-video-downloader/?src=search)
 
 ### REMAINING TO DO
 
