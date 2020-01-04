@@ -1,3 +1,8 @@
+"use strict";
+
+browser.runtime.onMessage.addListener(request => {
+    addVideoLink();
+});
 
 // Small hack to avoid duplicate
 function cleanUpDuplicate(videoID, element) {
@@ -15,11 +20,12 @@ function addVideoLink() {
     var timelineClassElements = document.getElementsByClassName(feedCardClass);
 
     var allVideos = Array();
+
     if (timelineClassElements !== undefined) {
         allVideos = Array.from(timelineClassElements);
     } else {
         allVideos = Array.from(document.getElementsByClassName(searchCardClassName));
-
+    }
         allVideos.forEach(element => {
             if (element !== undefined) {
                 var data = Array.from(element.getElementsByTagName("artdeco-dropdown-content"));
@@ -68,5 +74,4 @@ function addVideoLink() {
                 });
             }
         });
-    }
 }

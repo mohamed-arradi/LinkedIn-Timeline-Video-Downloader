@@ -20,4 +20,8 @@ browser.contextMenus.onClicked.addListener(function (info, tab) {
      }
 });
 
+browser.runtime.onMessage.addListener(request => {
+    updateVideosLinks();
+});
+
 browser.browserAction.setPopup({ popup: browser.i18n.getUILanguage().includes("fr") ? "../data/html/popup_menu-fr.html" : "../data/html/popup_menu.html" });
