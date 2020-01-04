@@ -1,0 +1,52 @@
+.styled {
+    border: 0;
+    line-height: 1.5;
+    padding: 1px 1px;
+    font-size: 0.8rem;
+    text-align: center;
+    color: #fff;
+    border-radius: 5px;
+    position: absolute;
+    width: 90%;
+    background-color: rgb(23, 22, 26);
+}
+
+.classic {
+    border: 0;
+    line-height: 1.5;
+    padding: 1px 1px;
+    font-size: 0.7rem;
+    text-align: center;
+    color: #fff;
+    border-radius: 1px;
+    position: absolute;
+    width: 90%;
+    background-color: rgb(21, 20, 4);
+}
+
+
+.support {
+    background-color: rgb(1, 116, 223);
+    color: #fff;
+    position: relative;
+    border-radius: 1px;
+}
+
+.support:hover {
+    position: relative;
+    background-color: rgb(213, 80, 23);
+    color: #fff;
+}
+
+.styled:hover {
+    background-color: rgb(1, 134, 223);
+}
+
+.styled:active {
+    box-shadow: inset -2px -2px 3px rgba(255, 255, 255, .6), inset 2px 2px 3px rgba(0, 0, 0, .6);
+}
+
+.labelclassic {
+    color: #fff;
+    font-size: 0.9rem;
+}
