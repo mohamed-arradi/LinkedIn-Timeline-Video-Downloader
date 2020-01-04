@@ -33,7 +33,7 @@ Just add the add-on here:
 
 ### Demo
 
-[![Demo-LinkedinVideoDownloader](/screenshots/Screenshot-YoutubeDemo.png)](https://addons.mozilla.org/en-US/firefox/addon/linkedin-video-downloader/?src=search)
+[![Demo-LinkedinVideoDownloader](/screenshots/Screenshot-YoutubeDemo.png)](https://youtu.be/zMlUsi1CT_M)
 
 ### REMAINING TO DO
 
