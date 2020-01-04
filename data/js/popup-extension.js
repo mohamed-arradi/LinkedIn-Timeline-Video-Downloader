@@ -3,6 +3,7 @@
 function notifyExtension(event) {
 
     var targetElement = event.target || event.srcElement;
+    
     if (targetElement.id === "add_video_button") {
         addVideoLinks();
     } else if (targetElement.id === "support_us") {
